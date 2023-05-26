@@ -9,7 +9,19 @@ export default function App() {
     </View>
   );
 }
-s
+hygor lindo
+hygor lindo
+hygor lindo
+hygor lindo
+hygor lindo
+hygor lindo
+hygor lindo
+hygor lindo
+hygor lindo
+hygor lindo
+hygor lindo
+hygor lindo
+hygor lindo
 hygor lindo
 
 
