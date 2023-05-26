@@ -11,7 +11,7 @@ export default function App() {
 }
 s
 hygor
-asdasdasdasda
+
 
 const styles = StyleSheet.create({
   container: {
