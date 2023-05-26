@@ -10,7 +10,7 @@ export default function App() {
   );
 }
 s
-hygor
+hygor lindo
 
 
 const styles = StyleSheet.create({
